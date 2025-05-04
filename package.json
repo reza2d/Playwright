@@ -1,0 +1,16 @@
+{
+  "name": "playwrightyoutube",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "allure:report": "allure generate --clean && allure open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^22.14.0"
+  }
+}

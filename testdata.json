@@ -1,0 +1,14 @@
+{
+
+    "username": "admin@email.com",
+    "password": "admin123",
+    "name": "Reza",
+    "interests": ["C#", "Shubh test", "Java"],
+    "gender": "Male",
+    "address": {
+        "area": "Mehrabad",
+        "city": "Tehran",
+        "Country": "Iran"
+    }
+
+}
